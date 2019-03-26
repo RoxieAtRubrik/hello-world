@@ -121,8 +121,6 @@ Open a Pull Request for changes:
 
 5. Give your pull request a title and write a brief description of your changes. When you’re done with your message, click Create pull request!
 
-Make sure the assignee for the Pull Request is **RoxieAtRubrik** with the **Enhancement** label. 
-
 ![Submit PR](https://user-images.githubusercontent.com/29388592/54978848-6b1d6a00-4fdc-11e9-82dd-972060096470.png)
 
 | Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests. |
