@@ -109,11 +109,11 @@ Open a Pull Request for changes:
 
 1. Click the **Pull Request** tab, then from the Pull Request page, click the green **New pull request** button.
 
-![New PR](https://user-images.githubusercontent.com/29388592/54978848-6b1d6a00-4fdc-11e9-82dd-972060096470.png)
+![New PR](https://user-images.githubusercontent.com/29388592/54980022-9eadc380-4fdf-11e9-8abf-44f943cbd6c5.png)
 
 2. In the Example Comparisons box, select the branch you made, `name-edits`, to compare with master (the original).
 
-![PR Review](https://user-images.githubusercontent.com/29388592/54920716-e6304300-4f3e-11e9-8aca-05f53ccb4383.png)
+![PR Review](https://user-images.githubusercontent.com/29388592/54980053-b127fd00-4fdf-11e9-8d92-8196972c017f.png)
 
 3. Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.
 
@@ -123,13 +123,10 @@ Open a Pull Request for changes:
 
 Make sure the assignee for the Pull Request is **RoxieAtRubrik** with the **Enhancement** label. 
 
-![Submit PR](https://user-images.githubusercontent.com/29388592/54920868-5343d880-4f3f-11e9-91b5-6c32b8ce2a6e.png)
+![Submit PR](https://user-images.githubusercontent.com/29388592/54978848-6b1d6a00-4fdc-11e9-82dd-972060096470.png)
 
 | Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests. |
 | --- |
-
-# Step 6. Merge your Pull Request
-In this final step, it’s time to bring your changes together – merging your `name-edits` branch into the master branch.
 
 With proper access you will be able to merge your own branch. In this instance, a project maintainer is required to do the merge. 
 
