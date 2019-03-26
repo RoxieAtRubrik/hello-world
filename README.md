@@ -46,7 +46,17 @@ You will fork this repository to your account to make and propose changes. To
 
 To fork: 
 
-1. 
+1. At the top of the repository, click the **Fork** button. 
+
+![Fork the repo](https://user-images.githubusercontent.com/29388592/54977736-322fc600-4fd9-11e9-8c04-057acbf2d355.png)
+
+2. A dialog will appear to confirm the fork, select your account. 
+
+![Confirm the fork](https://user-images.githubusercontent.com/29388592/54977838-74f19e00-4fd9-11e9-8b27-00c02d4c30ae.png)
+
+You should now this this repository forked to your account and available for you to freely edit. 
+
+![Successful fork](https://user-images.githubusercontent.com/29388592/54978131-55a74080-4fda-11e9-8dd2-b80876e070c9.png)
 
 # Step 3. Create a Branch
 Branching is the way to work on different versions of a repository at one time.
@@ -59,7 +69,7 @@ Rubrik Build uses branches for keeping bug fixes and feature work separate from 
 
 To create a new branch:
 
-1. Go to RoxieAtRubrik's repository called `hello-world`.
+1. Go to your forked copy of the repository called `hello-world`.
 2. Click the drop down at the top of the file list that says branch: master.
 3. Type a branch name, `name-edits` (i.e. rfitzhugh-edits), into the new branch text box.
 4. Select the blue Create branch box or hit “Enter” on your keyboard.
