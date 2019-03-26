@@ -109,7 +109,7 @@ Open a Pull Request for changes:
 
 1. Click the **Pull Request** tab, then from the Pull Request page, click the green **New pull request** button.
 
-![New PR](https://user-images.githubusercontent.com/29388592/54920609-96517c00-4f3e-11e9-9087-426a7f53032b.png)
+![New PR](https://user-images.githubusercontent.com/29388592/54978848-6b1d6a00-4fdc-11e9-82dd-972060096470.png)
 
 2. In the Example Comparisons box, select the branch you made, `name-edits`, to compare with master (the original).
 
