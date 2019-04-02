@@ -5,9 +5,11 @@ Washington, D.C., formally the District of Columbia, is the capital of the Unite
 ## To See/Do
 
 * [Smithsonian Museums](https://www.si.edu/museums) - [Rebecca](https://github.com/rfitzhugh)'s favorite is the American History Museum
+* [Lincoln Memorial Reflecting Pool](https://www.nps.gov/nama/planyourvisit/lincoln-memorial-reflecting-pool.htm)
 
 ## To Eat/Drink
 
 * Founding Farmers
+* Captain Cookie & the Milk Man
 
 ## Additional links
