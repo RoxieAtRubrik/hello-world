@@ -5,9 +5,11 @@ Washington, D.C., formally the District of Columbia, is the capital of the Unite
 ## To See/Do
 
 * [Smithsonian Museums](https://www.si.edu/museums) - [Rebecca](https://github.com/rfitzhugh)'s favorite is the American History Museum
+* Old Town Alexandria - lots of awesome Mom and Pop dining spots and shopping areas
 
 ## To Eat/Drink
 
 * Founding Farmers
+
 
 ## Additional links
