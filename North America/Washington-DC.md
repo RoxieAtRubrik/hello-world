@@ -8,6 +8,12 @@ Washington, D.C., formally the District of Columbia, is the capital of the Unite
 
 ## To Eat/Drink
 
-* Founding Farmers
+* There is not much much left to eat in this City, most food is CRAP! I would recomend going to [New York](https://www.craftrestaurant.com/) This place will rock your taste bud world.  
 
 ## Additional links
+
+
+## Parks 
+
+* Meditation after you finish coding all this Crap: [Petworth Meditation Garden](https://dc.curbed.com/2018/6/25/17500530/petworth-meditation-garden-opens).  Have Fun and dream of me. 
+
