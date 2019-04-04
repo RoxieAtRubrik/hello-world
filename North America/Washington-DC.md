@@ -17,5 +17,10 @@ Washington, D.C., formally the District of Columbia, is the capital of the Unite
 * Yelp (https://www.yelp.com/) - Find them yourself
 * Roll Play https://rollplaygrill.com
 
-
 ## Additional links
+
+
+## Parks 
+
+* Meditation after you finish coding: [Petworth Meditation Garden](https://dc.curbed.com/2018/6/25/17500530/petworth-meditation-garden-opens).
+
