@@ -7,7 +7,7 @@ No coding necessary to complete this tutorial, just a GitHub account. You don’
 # Step 1. Create an Issue
 Issues are used to track ideas, enhancements, tasks, or bugs for work on GitHub. Rubrik Build uses issues to collect user feedback, report software bugs, and organize tasks we'd like to accomplish within a repository. Issues can act as more than just a place to report software bugs. You can also watch an issue to receive notifications about the latest comments.
 
-Take a look through the folder structure and find the `.md` file that corresponds to your city. For example if the workshop is taking place in New Orleans, then there should be a `New-Orleans.md` file located in the `/North America/` directory. Note the sections for what to see/do and where to eat/drink; what is missing? Tell us by creating an issue!
+Take a look through the folder structure and find the `.md` file that corresponds to your NYC. For example if the workshop is taking place in New Orleans, then there should be a `New-Orleans.md` file located in the `/North America/` directory. Note the sections for what to see/do and where to eat/drink; what is missing? Tell us by creating an issue!
 
 To create an issue:
 
