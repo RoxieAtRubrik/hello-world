@@ -17,15 +17,8 @@ New York City comprises 5 boroughs sitting where the Hudson River meets the Atla
 * NY style Pizza
 * Market Table, in SoHo
 
-## Additional links
-
-
 ## Parks 
 
 * Visit [Central Park](http://www.centralparknyc.org/)
 
-
-## Sporting Events
-
-* Yankee Game
-* Central Park
+## Additional links
