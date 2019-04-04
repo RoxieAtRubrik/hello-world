@@ -10,7 +10,6 @@ New York City comprises 5 boroughs sitting where the Hudson River meets the Atla
 * Times Square - The iconic landmark
 * China Town
 * Brooklyn Bridge
-* Central Park
 
 ## To Eat/Drink
 
@@ -23,9 +22,10 @@ New York City comprises 5 boroughs sitting where the Hudson River meets the Atla
 
 ## Parks 
 
+* Visit [Central Park](http://www.centralparknyc.org/)
+
 
 ## Sporting Events
 
 * Yankee Game
 * Central Park
-
