@@ -6,6 +6,7 @@ New York City comprises 5 boroughs sitting where the Hudson River meets the Atla
 
 * Williamsburg, Brooklyn
 * Empire State Building
+* Yankee Stadium
 * Times Square - The iconic landmark
 * China Town
 * Brooklyn Bridge
