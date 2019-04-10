@@ -8,7 +8,7 @@ Milan, a metropolis in Italy's northern Lombardy region, is a global capital of 
 
 ## To Eat/Drink
 
-*
+* La cantina del Giannone
 
 ## Parks
 
