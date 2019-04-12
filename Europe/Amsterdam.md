@@ -9,7 +9,10 @@ Amsterdam is the Netherlands’ capital, known for its artistic heritage, elabor
 
 ## To Eat/Drink
 
-* 
+* [Best Apple Pie - Winkel 43](https://winkel43.nl/)
+* [Best Fries - Vlaams Friteshuis Vleminckx](http://vleminckxdesausmeester.nl/en/)
+* [Best Stroopwafel - Original Stroopwafels](http://originalstroopwafels.com/)
+
 
 ## Parks
 
