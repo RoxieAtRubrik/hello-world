@@ -5,13 +5,13 @@ Philadelphia, Pennsylvania’s largest city, is notable for its rich history, on
 ## To See/Do
 
 * [Liberty Bell](https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm)
+* [art museum]
 
 ## To Eat/Drink
-
-* 
+* [Redding Terminal]
 
 ## Parks
 
-* 
+*[Independace Mall] 
 
 ## Additional links
