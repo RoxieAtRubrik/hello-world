@@ -5,13 +5,14 @@ Philadelphia, Pennsylvania’s largest city, is notable for its rich history, on
 ## To See/Do
 
 * [Liberty Bell](https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm)
+* Philadelphia art museum
 * An Awesome place to visit if the Mutter Museum (if you like macabre) http://muttermuseum.org/
-## To Eat/Drink
 
-* 
+## To Eat/Drink
+* Redding Terminal
 
 ## Parks
-
+* Independence Mall
 * [Schuylkill River Trail](https://schuylkillrivertrail.com/) A multiuse trail passing close to the center of Philadelphia.
 
 ## Additional links
