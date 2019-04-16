@@ -12,6 +12,6 @@ Philadelphia, Pennsylvania’s largest city, is notable for its rich history, on
 
 ## Parks
 
-* 
+* [Schuylkill River Trail](https://schuylkillrivertrail.com/) A multiuse trail passing close to the center of Philadelphia.
 
 ## Additional links
