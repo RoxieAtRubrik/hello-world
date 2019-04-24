@@ -5,11 +5,11 @@ Denver, the capital of Colorado, is an American metropolis dating to the Old Wes
 ## To See/Do
 
 * [Red Rocks Amphitheatre](https://www.redrocksonline.com)
-* Rocky Mountain National Park
+* [Rocky Mountain National Park](https://www.nps.gov/romo/index.htm)
 
 ## To Eat/Drink
 
-* Casa Bonits
+* Casa Bonita
 
 ## Parks
 
