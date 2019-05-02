@@ -12,7 +12,7 @@ San Francisco, in northern California, is a hilly city on the tip of a peninsula
 
 ## Parks 
 
-*Golden Gate Park
-*Mission Dolores Park
+* Golden Gate Park
+* Mission Dolores Park
 
 ## Additional links
