@@ -8,7 +8,7 @@ San Francisco, in northern California, is a hilly city on the tip of a peninsula
 
 ## To Eat/Drink
 
-* 
+* [Chubby Noodle](https://www.chubbynoodle.com/)
 
 ## Parks 
 
