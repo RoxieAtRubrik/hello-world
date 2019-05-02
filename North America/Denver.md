@@ -9,10 +9,13 @@ Denver, the capital of Colorado, is an American metropolis dating to the Old Wes
 
 ## To Eat/Drink
 
+* Casa Bonita
 * The Whiskey Bar on 22nd & Larimer is THE place to find the best selection of Whiskey in Denver!
 
 ## Parks
 
 * Green Mountain
+* Civic Center Park
 
 ## Additional links
+
