@@ -4,6 +4,7 @@ Seattle is dope. Coffee, grey, rain, flannel, Sub-Pop, Green, Happy Edibles
 
 ## To See/Do
 
+* Visit Fremont Brewery
 * Seattle Center, Pikes Place, Discovery Park
 
 ## To Eat/Drink
