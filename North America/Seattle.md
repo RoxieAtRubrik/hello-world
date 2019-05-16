@@ -4,6 +4,7 @@ Seattle is dope. Coffee, grey, rain, flannel, Sub-Pop
 
 ## To See/Do
 
+* Visit the Fremont Troll because its massive and it is holding a VW bug
 * Space Needle
 * Visit West Seattle
 
