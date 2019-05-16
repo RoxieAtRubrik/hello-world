@@ -7,9 +7,9 @@ Seattle is dope. Coffee, grey, rain, flannel, Sub-Pop
 * Space Needle
 * Visit West Seattle
 
-
 ## To Eat/Drink
 
+* Reuben's brewery in Ballard. Great IPA and Gose! 
 * Eat at Pegasis Pizza on Alki
 * Long Walks 
 
