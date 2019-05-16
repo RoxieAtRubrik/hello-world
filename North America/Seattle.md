@@ -4,7 +4,9 @@ Seattle is dope. Coffee, grey, rain, flannel, Sub-Pop
 
 ## To See/Do
 
+* Space Needle
 * Visit West Seattle
+
 
 ## To Eat/Drink
 
