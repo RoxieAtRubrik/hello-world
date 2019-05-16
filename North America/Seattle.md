@@ -9,6 +9,11 @@ Seattle is dope. Coffee, grey, rain, flannel, Sub-Pop
 ## To Eat/Drink
 
 * Eat at Pegasis Pizza on Alki
+* Long Walks 
+
+## To Eat/Drink
+
+* Sushi
 
 ## Parks 
 
