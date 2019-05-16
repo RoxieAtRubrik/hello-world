@@ -2,6 +2,8 @@
 
 Seattle is dope. Coffee, grey, rain, flannel, Sub-Pop, Green, Happy Edibles
 
+What up, Rebecca?
+
 ## To See/Do
 
 * Burke Gilman Biking
