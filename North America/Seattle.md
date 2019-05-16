@@ -8,7 +8,7 @@ Seattle is dope. Coffee, grey, rain, flannel, Sub-Pop
 
 ## To Eat/Drink
 
-* 
+* Reuben's brewery in Ballard. Great IPA and Gose! 
 
 ## Parks 
 
