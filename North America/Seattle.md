@@ -4,6 +4,15 @@ Seattle is dope. Coffee, grey, rain, flannel, Sub-Pop, Green, Happy Edibles
 
 ## To See/Do
 
+* Burke Gilman Biking
+
+## To Eat/Drink
+
+* Old Stove Brewery
+
+## Parks 
+
+* Tatoosh Range
 * Visit Fremont Brewery
 * Seattle Center, Pikes Place, Discovery Park
 
