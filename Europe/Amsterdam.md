@@ -16,7 +16,7 @@ Amsterdam is the Netherlands’ capital, known for its artistic heritage, elabor
 
 ## Parks
 
-* 
+* [Vondelpark](https://nl.wikipedia.org/wiki/Vondelpark)
 
 ## Additional links
 
