@@ -7,11 +7,13 @@ Paris, France's capital, is a major European city and a global center for art, f
 * Eiffel Tower
 
 ## To Eat/Drink
-
+Un lutin dans le jardin
+Zebra
 *
 
 ## Parks
-
+Bois de Boulogne
 *
 
 ## Additional links
+Pas le gout
