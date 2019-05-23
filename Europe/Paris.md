@@ -7,7 +7,7 @@ Paris, France's capital, is a major European city and a global center for art, f
 * Eiffel Tower
 
 ## To Eat/Drink
-
+La machine à coude , Boulogne_Billancourt
 *
 
 ## Parks
