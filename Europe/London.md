@@ -18,9 +18,12 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 * Gourmet burger at [Meat Liquor](https://meatliquor.com/) - MEATliquor — The original MEAT. Come hungry, leave wobbly
 * Gauchos - Tower Bridge
 * The Meat Market - Covent Garden
+* if you like steaks, the [Black and Blue](http://www.blackandbluerestaurants.com/our-restaurants/borough-market/) at Borough Market
+* for a vegan option, check out [Wild Food Cafe](http://wildfoodcafe.com/home/)
 
 ## Parks
 
+* Battersea Park
 * Regents Park 
 
 ## Additional links
