@@ -11,9 +11,10 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 ## To Eat/Drink
 
+* Gourmet burger at [Meat Liquor](https://meatliquor.com/) - MEATliquor — The original MEAT. Come hungry, leave wobbly
 * Gauchos - Tower Bridge
 * The Meat Market - Covent Garden
-* Dishoom (http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
+* [Dishoom](http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
 
 ## Parks
 
