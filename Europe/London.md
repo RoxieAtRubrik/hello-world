@@ -7,12 +7,13 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 * [Big Ben - London's iconic national timepiece](https://www.parliament.uk/bigben)
 * [Buckingham Palace - Home of the British Queen & State Rooms](https://www.rct.uk/visit/the-state-rooms-buckingham-palace)
 * [London Eye - Iconic riverside observation wheel](https://www.londoneye.com/)
+* [London Dungeon]
 
 ## To Eat/Drink
 
 * Gauchos - Tower Bridge
 * The Meat Market - Covent Garden
-
+* Dishoom (http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
 
 ## Parks
 
