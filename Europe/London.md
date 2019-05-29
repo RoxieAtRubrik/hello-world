@@ -11,6 +11,7 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 ## To Eat/Drink
 
+* Camden Lock
 * Byron Burgers - Proper burgers - https://www.byronhamburgers.com/
 * Gourmet burger at [Meat Liquor](https://meatliquor.com/) - MEATliquor — The original MEAT. Come hungry, leave wobbly
 * Gauchos - Tower Bridge
@@ -19,6 +20,6 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 ## Parks
 
-* 
+* Regents Park 
 
 ## Additional links
