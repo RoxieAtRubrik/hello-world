@@ -13,10 +13,16 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 * Dishoom (http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
 * Black & Blue at Borough Market- good steak restaurant with vegetarian and fish options, a great location, and not over-priced
+* Camden Lock
+* Byron Burgers - Proper burgers - https://www.byronhamburgers.com/
+* Gourmet burger at [Meat Liquor](https://meatliquor.com/) - MEATliquor — The original MEAT. Come hungry, leave wobbly
+* Gauchos - Tower Bridge
+* The Meat Market - Covent Garden
+* [Dishoom](http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
 
 
 ## Parks
 
-* 
+* Regents Park 
 
 ## Additional links
