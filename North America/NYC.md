@@ -10,12 +10,14 @@ New York City comprises 5 boroughs sitting where the Hudson River meets the Atla
 * Times Square - The iconic landmark
 * China Town
 * Brooklyn Bridge
+* Ellen's Stardust Diner
 
 ## To Eat/Drink
 
 * Blarney Stone
 * NY style Pizza
 * Market Table, in SoHo
+* Ellen's Stardust Diner
 
 ## Parks 
 
