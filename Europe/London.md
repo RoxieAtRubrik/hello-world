@@ -10,7 +10,8 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 ## To Eat/Drink
 
-* 
+* Gauchos - Tower Bridge
+* The Meat Market - Covent Garden
 
 
 ## Parks
