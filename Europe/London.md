@@ -12,7 +12,7 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 ## To Eat/Drink
 
 * Dishoom (http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
-
+* Jamie Oliver restaurants are currently more difficult to find
 
 ## Parks
 
