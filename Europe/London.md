@@ -12,7 +12,7 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 * Dishoom (http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
 
-* Dil Chad (http://www.dilchad.com) is an long-established restaurant serving Bengali-inspired cuisine
+* Dil Chad (http://www.dilchad.com) is an long-established restaurant serving Bengali inspired cuisine
 
 
 ## Parks
