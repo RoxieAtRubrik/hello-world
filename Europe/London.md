@@ -10,7 +10,7 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 ## To Eat/Drink
 
-* 
+* The Hole in the Wall, adjacent to Waterloo station. A regular in the Good Beer Guide, this pub is not to be missed for anyone who likes a range of British beer but isn't looking for an up-market or refined experience. 
 
 
 ## Parks
