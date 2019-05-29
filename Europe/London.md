@@ -10,11 +10,15 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 ## To Eat/Drink
 
-* 
+* if you like steaks, the Black and Blue at Borough Market
+http://www.blackandbluerestaurants.com/our-restaurants/borough-market/
+
+* for a vegan option, check out Wild Food Cafe
+http://wildfoodcafe.com/home/
 
 
 ## Parks
 
-* 
+* Battersea Park
 
 ## Additional links
