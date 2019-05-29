@@ -13,6 +13,7 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 
 * Dishoom (http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
 
+Borough Market has many places to eat and drink.
 
 ## Parks
 
