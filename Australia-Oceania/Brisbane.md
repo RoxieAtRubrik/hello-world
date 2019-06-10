@@ -5,10 +5,11 @@ Brisbane is the capital of and the most populated city in the Australian state o
 ## To See/Do
 
 * [Lone Pine Koala Sanctuary](https://koala.net)
+* Sushine Coast
 
 ## To Eat/Drink
 
-*
+* 
 
 ## Parks 
 
