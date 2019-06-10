@@ -29,4 +29,5 @@ Brisbane is the capital of and the most populated city in the Australian state o
 * [Victoria Park Golf Club](https://victoriapark.com.au)
 
 ## Additional links
-https://www.visitbrisbane.com.au/
+
+* https://www.visitbrisbane.com.au/
