@@ -9,11 +9,20 @@ Brisbane is the capital of and the most populated city in the Australian state o
 
 ## To Eat/Drink
 
-*CloudLand (https://www.cloudland.tv/)
+* Keiran's House - Pie on Monday night
+* Blackbird - Great Steaks
+* [The Charming Squire Southbank](https://www.jamessquire.com.au/brewhouses/the-charming-squire/)
+* [Donna Chang](https://www.donnachang.com.au)
+* CloudLand (https://www.cloudland.tv/)
+* Mado
 
 ## Parks 
 
-*Botanic Gardens (https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/brisbane-botanic-gardens-mt-coot-tha)
+* [South Bank](https://www.visitbrisbane.com.au/south-bank?sc_lang=en-au)
+* Howard Smith Wharves
+* Mt Cootha
+* [City Botanical Gardens](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/city-botanic-gardens)
+* [Victoria Park Golf Club](https://victoriapark.com.au)
 
 ## Additional links
 
