@@ -5,7 +5,8 @@ Brisbane is the capital of and the most populated city in the Australian state o
 ## To See/Do
 
 * [Lone Pine Koala Sanctuary](https://koala.net)
-* Harry Potter Shop (https://www.thestoreofrequirement.com.au/)
+* Buy a boomerang 
+* [Harry Potter Shop](https://www.thestoreofrequirement.com.au/)
 
 ## To Eat/Drink
 
@@ -13,7 +14,7 @@ Brisbane is the capital of and the most populated city in the Australian state o
 * Blackbird - Great Steaks
 * [The Charming Squire Southbank](https://www.jamessquire.com.au/brewhouses/the-charming-squire/)
 * [Donna Chang](https://www.donnachang.com.au)
-* CloudLand (https://www.cloudland.tv/)
+* [CloudLand](https://www.cloudland.tv/)
 * Mado
 
 ## Parks 
