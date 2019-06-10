@@ -7,6 +7,8 @@ Brisbane is the capital of and the most populated city in the Australian state o
 * [Australia Zoo](https://australiazoo.com)
 * Mt Cootha Botanical Gardens
 * [Lone Pine Koala Sanctuary](https://koala.net)
+* [Mt Coot-tha Lookout](https://brisbanelookout.com)
+* [Port of Brisbane](https://www.portbris.com.au)
 * Sushine Coast
 * Buy a boomerang 
 * [Harry Potter Shop](https://www.thestoreofrequirement.com.au/)
@@ -21,6 +23,9 @@ Brisbane is the capital of and the most populated city in the Australian state o
 * [CloudLand](https://www.cloudland.tv/)
 * Mado
 * Maccas
+* [Ole Restaurant](https://olerestaurant.com.au)
+* [Sitar Indian](http://www.sitar.com.au)
+* [Miss Kay's](https://www.misskaysburgers.com)
 
 ## Parks 
 
