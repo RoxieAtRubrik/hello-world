@@ -7,6 +7,7 @@ Brisbane is the capital of and the most populated city in the Australian state o
 * [Australia Zoo](https://australiazoo.com)
 * Mt Cootha Botanical Gardens
 * [Lone Pine Koala Sanctuary](https://koala.net)
+* Sushine Coast
 * Buy a boomerang 
 * [Harry Potter Shop](https://www.thestoreofrequirement.com.au/)
 
