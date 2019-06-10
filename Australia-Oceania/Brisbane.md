@@ -12,6 +12,7 @@ Brisbane is the capital of and the most populated city in the Australian state o
 
 ## To Eat/Drink
 
+* Breakfast Creek Hotel
 * Keiran's House - Pie on Monday night
 * Blackbird - Great Steaks
 * [The Charming Squire Southbank](https://www.jamessquire.com.au/brewhouses/the-charming-squire/)
