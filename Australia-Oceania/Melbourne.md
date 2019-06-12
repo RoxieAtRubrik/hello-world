@@ -5,6 +5,8 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 ## To See/Do
 
 * Yarra Valley
+* Great Ocean Road
+* Alpine Ski Fields
 * Melbourne Cricket Grounds
 
 ## To Eat/Drink
@@ -12,12 +14,14 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 * Eureka89
 * Shujinko Ramen 
 * Everyday Midtown 
+* Augellos
 
 ## Parks 
 
 * [Wilsons Promontory](https://parkweb.vic.gov.au/explore/parks/wilsons-promontory-national-park)
 * [Lysterfield Lake Park](https://www.lysterfieldmtb.com/) - Great venue for cross country Mountain Biking. There is a local group that maintains the mountain bike tracks LDTR. There are also picnic area's walking, swimming and equestrian areas, which make it a great place for a family outing. The number of Kangaroo's in this park almost guarentee an encounter with Australias notorious marsupial in a wild (but not too wild) location.
 * Yarra Bend Park 
+* Aranga Reserve dog park
 
 ## Additional links
 
