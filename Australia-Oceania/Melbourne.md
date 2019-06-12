@@ -5,6 +5,9 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 ## To See/Do
 
 * Yarra Valley
+* Formula1
+* City Circle Tram
+* St. Kilda beach and cafes
 
 ## To Eat/Drink
 
