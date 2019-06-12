@@ -8,10 +8,11 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 
 ## To Eat/Drink
 
-*
+* Shujinko Ramen 
+* Everyday Midtown 
 
 ## Parks 
 
-*
+* Yarra Bend Park 
 
 ## Additional links
