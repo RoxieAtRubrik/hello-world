@@ -5,6 +5,9 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 ## To See/Do
 
 * Yarra Valley
+* Formula 1
+* City Circle Tram
+* St. Kilda beach and cafes
 * Arthur's Seat
 * Mornington Peninsula
 * Dandenong Ranges
@@ -13,6 +16,7 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 * [Melbourne Cricket Grounds](https://www.mcg.org.au) - Visit the stadium seven days a week for AFL, cricket, international soccer, the National Sports Museum, cafes and the unmatchable MCG Tour.
 * Great Ocean Road
 * Alpine Ski Fields
+* Phillip Island
 
 ## To Eat/Drink
 
@@ -31,4 +35,4 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 
 ## Additional links
 
-* Formula 1 Australian Grand Prix www.grandprix.com.au
+* [Formula 1 - Australian Grand Prix](www.grandprix.com.au)
