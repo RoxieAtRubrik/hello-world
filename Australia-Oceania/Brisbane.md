@@ -22,10 +22,10 @@ Brisbane is the capital of and the most populated city in the Australian state o
 * [Donna Chang](https://www.donnachang.com.au)
 * [CloudLand](https://www.cloudland.tv/)
 * Mado
-* Maccas
 * [Ole Restaurant](https://olerestaurant.com.au)
 * [Sitar Indian](http://www.sitar.com.au)
 * [Miss Kay's](https://www.misskaysburgers.com)
+* Mr. Curry
 
 ## Parks 
 
