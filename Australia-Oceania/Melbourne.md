@@ -5,6 +5,7 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 ## To See/Do
 
 * Yarra Valley
+* [Melbourne Cricket Ground](https://www.mcg.org.au) - Visit the stadium seven days a week for AFL, cricket, international soccer, the National Sports Museum, cafes and the unmatchable MCG Tour.
 
 ## To Eat/Drink
 
