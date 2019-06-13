@@ -14,8 +14,8 @@ Paris, France's capital, is a major European city and a global center for art, f
 * Un lutin dans le jardin
 * Zebra
 * Oiseau Blanc at The Peninsula
-* Le Louvre
 * La machine à coude , Boulogne_Billancourt
+* Le Crocodile
 
 ## Parks
 
