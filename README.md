@@ -54,7 +54,7 @@ To fork:
 
 ![Confirm the fork](https://user-images.githubusercontent.com/29388592/54977838-74f19e00-4fd9-11e9-8b27-00c02d4c30ae.png)
 
-You should now this this repository forked to your account and available for you to freely edit. 
+You should now see this repository forked to your account and available for you to freely edit. 
 
 ![Successful fork](https://user-images.githubusercontent.com/29388592/54978131-55a74080-4fda-11e9-8dd2-b80876e070c9.png)
 
