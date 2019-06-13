@@ -21,7 +21,7 @@ Paris, France's capital, is a major European city and a global center for art, f
 
 * Bois de Boulogne
 * Bois de Vincennes
-*
+* [Jardin des Tuileries](https://www.parisinfo.com/musee-monument-paris/71304/Jardin-des-Tuileries)
 
 ## Additional links
 
