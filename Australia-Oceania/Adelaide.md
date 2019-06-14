@@ -9,7 +9,7 @@ Adelaide is the capital city of the state of South Australia, and the fifth-most
 
 ## To Eat/Drink
 
-* [Hains & Co](https://hainsco.com.au)
+* [Hains & Co](https://hainsco.com.au)- Great boutique bar
 * [Prohibition Distillery](https://prohibitionliquor.co)
 * [Gilbert St Hotel](https://www.gilbertsthotel.com.au)
 * [A Hereford Beefstouw](https://beefstouw.com/restaurants/adelaide-australien)
