@@ -8,7 +8,7 @@ Adelaide is the capital city of the state of South Australia, and the fifth-most
 
 ## To Eat/Drink
 
-*
+* Haines & Co - Great boutique bar.
 
 ## Parks 
 
