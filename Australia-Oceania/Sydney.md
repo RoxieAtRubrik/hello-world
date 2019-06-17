@@ -8,8 +8,9 @@ Sydney is the state capital of New South Wales and the most populous city in Aus
 
 ## To Eat/Drink
 
+* the Rocks
 * [The Ivy Pool](https://merivale.com/venues/poolclub/)
-* Vegemite (correctly served on buttered toast).
+* Vegemite (correctly served on buttered toast)
 
 ## Parks 
 
@@ -17,6 +18,7 @@ Sydney is the state capital of New South Wales and the most populous city in Aus
 * Botanical Gardens
 
 ## Bands to see
+
 * Unlocking The Doors are a really good cover band to see.
 
 ## Additional links
