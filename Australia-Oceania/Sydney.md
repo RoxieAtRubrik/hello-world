@@ -8,7 +8,9 @@ Sydney is the state capital of New South Wales and the most populous city in Aus
 
 ## To Eat/Drink
 
-*
+## Bands to see
+* Unlocking The Doors are a really good cover band to see.
+
 
 ## Parks 
 
