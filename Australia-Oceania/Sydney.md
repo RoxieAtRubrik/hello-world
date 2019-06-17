@@ -8,6 +8,7 @@ Sydney is the state capital of New South Wales and the most populous city in Aus
 * Beach volleyball at Manly Beach
 * Drive to Blue Mountains and visit the Three Sisters at Katoomba
 * Be adventurous and climb the harbour bridge (Bridge Climb)
+* [Kensington Street, Chippendale](https://www.kensingtonstreet.com.au/)
 
 ## To Eat/Drink
 
