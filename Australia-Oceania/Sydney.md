@@ -16,4 +16,7 @@ Sydney is the state capital of New South Wales and the most populous city in Aus
 * Hyde Park - https://www.cityofsydney.nsw.gov.au/explore/facilities/parks/major-parks/hyde-park
 * Botanical Gardens
 
+## Bands to see
+* Unlocking The Doors are a really good cover band to see.
+
 ## Additional links
