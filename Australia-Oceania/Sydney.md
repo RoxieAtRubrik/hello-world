@@ -8,7 +8,7 @@ Sydney is the state capital of New South Wales and the most populous city in Aus
 
 ## To Eat/Drink
 
-* Vegemite (correctly served on buttered toast)
+* Vegemite (correctly served on buttered toast).
 
 ## Parks 
 
