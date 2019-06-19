@@ -8,6 +8,7 @@ Auckland, based around 2 large harbours, is a major city in the north of New Zea
 
 ## To Eat/Drink
 
+* [The Sugar Club](https://www.skycityauckland.co.nz/restaurants/the-sugar-club/) at the top of the Sky Tower.
 * [1947 eatery](http://1947eatery.co.nz/)
 
 ## Parks
