@@ -8,7 +8,7 @@ Auckland, based around 2 large harbours, is a major city in the north of New Zea
 
 ## To Eat/Drink
 
-* 
+* [1947 eatery](http://1947eatery.co.nz/)
 
 ## Parks
 
