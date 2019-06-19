@@ -5,6 +5,7 @@ Auckland, based around 2 large harbours, is a major city in the north of New Zea
 ## To See/Do
 
 * [Sky Tower](https://www.skycityauckland.co.nz/sky-tower/)
+* [Waiheke Island](https://www.waiheke.co.nz/)
 * **Get out of Auckland**  The rest of New Zealand is amazing, make sure to get past the city
 
 ## To Eat/Drink
