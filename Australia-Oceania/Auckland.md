@@ -15,6 +15,6 @@ Auckland, based around 2 large harbours, is a major city in the north of New Zea
 
 ## Parks
 
-* 
+* one tree hill - its a farm located within 8kms of AUCKLAND CBD
 
 ## Additional links
