@@ -6,6 +6,7 @@ Paris, France's capital, is a major European city and a global center for art, f
 
 * Eiffel Tower
 * Musée du Louvre
+* Cathédrale Notre-Dame de Paris
 
 ## To Eat/Drink
 
