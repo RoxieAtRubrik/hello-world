@@ -4,15 +4,16 @@ Singapore, an island city-state off southern Malaysia, is a global financial cen
 
 ## To See/Do
 
-* 
+* singapore Zoo
 
 ## To Eat/Drink
 
-*
+* Inuka cafe
 
 ## Parks
 
-*
+* River Safari
 
 ## Additional links
 
+Night Safari
