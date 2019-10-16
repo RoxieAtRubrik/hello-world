@@ -20,7 +20,10 @@ The city-state has a burgeoning food scene ranging from hawker centres (open-air
 
 ## Parks
 
+* 123
+
 Jurong Bird Park is another zoological garden centred on birds, which is dedicated towards exposing the public to as much species and varieties of birds from around the world as possible, including a flock of one thousand flamingos. The tourist island of Sentosa, which attracts 19 million visitors in 2011, is located in the south of Singapore, consisting of about 20–30 landmarks, such as Fort Siloso, which was built as a fortress to defend against the Japanese during World War II.
+
 
 ## Additional links
 
