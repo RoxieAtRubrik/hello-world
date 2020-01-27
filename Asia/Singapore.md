@@ -26,4 +26,7 @@ Jurong Bird Park is another zoological garden centred on birds, which is dedicat
 
 
 ## Additional links
+The best 15 Things to do in Singapore:
+https://www.tripadvisor.com/Attractions-g294265-Activities-Singapore.html
+
 
