@@ -7,28 +7,47 @@ London, the capital of England and the United Kingdom, is a 21st-century city wi
 * [Big Ben - London's iconic national timepiece](https://www.parliament.uk/bigben)
 * [Buckingham Palace - Home of the British Queen & State Rooms](https://www.rct.uk/visit/the-state-rooms-buckingham-palace)
 * [London Eye - Iconic riverside observation wheel](https://www.londoneye.com/)
-* [London Dungeon]
+* London Dungeon
+* [Boxpark](boxpark.co.uk) - Shipping container, pop-up mall for independent and global, fashion and lifestyle stores and cafes
 
 ## To Eat/Drink
 
-* Dishoom (http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
+* [Dishoom](http://www.dishoom.com/shoreditch/), an amazing fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili ice cream.
 * [Dil Chad](http://www.dilchad.com) is an long-established restaurant serving Bengali inspired cuisine
-* Jamie Oliver restaurants are currently more difficult to find
-* Borough Market has many places to eat and drink.
-* The Hole in the Wall, adjacent to Waterloo station. A regular in the Good Beer Guide, this pub is not to be missed for anyone who likes a range of British beer but isn't looking for an up-market or refined experience. 
-* Dishoom (http://www.dishoom.com/shoreditch/), an charismatic fusion restaurant with modern twists on Indian food. Come early, there's always a queue. Definitely try the chocolate cake with chili icecream.
-* Black & Blue at Borough Market- good steak restaurant with vegetarian and fish options, a great location, and not over-priced
-* Camden Lock
+* [Black and Blue](http://www.blackandbluerestaurants.com/our-restaurants/borough-market/) at Borough Market - good steak restaurant with vegetarian and fish options, a great location, and not over-priced
 * Byron Burgers - Proper burgers - https://www.byronhamburgers.com/
 * Gourmet burger at [Meat Liquor](https://meatliquor.com/) - MEATliquor — The original MEAT. Come hungry, leave wobbly
 * Gauchos - Tower Bridge
 * The Meat Market - Covent Garden
-* if you like steaks, the [Black and Blue](http://www.blackandbluerestaurants.com/our-restaurants/borough-market/) at Borough Market
 * for a vegan option, check out [Wild Food Cafe](http://wildfoodcafe.com/home/)
+* [Shoryu Ramen](https://www.shoryuramen.com/stores/80-shoreditch)
+* [Kricket Brixton](https://kricket.co.uk)
+* [Nanban](nanban.co.uk)
+* [Smoke & Salt](smokeandsalt.com)
+* [Kin + Deum](kindeum.com)
+* [7 Saints](7saints.co.uk)
+* [Mao Chow](mao-chow.com)
+* [Berber & Q Grill House](berberandq.com)
+* [Smoking Goat](smokinggoatbar.com)
+* [Butchies](butchies.co.uk)
+* [Honey & Co](honeyandco.co.uk)
+* [Kanada-Ya](kanada-ya.com)
+* [Berners Tavern](bernerstavern.com)
+* [GammaGamma](gammagamma.co.uk)
+* Yolkin - ice cream shop
+* [The Palomar](thepalomar.co.uk)
+
+* The Hole in the Wall, adjacent to Waterloo station. A regular in the Good Beer Guide, this pub is not to be missed for anyone who likes a range of British beer but isn't looking for an up-market or refined experience.
+* [Hackney Church Brew Co.](hackneychurchbrew.co)
+* [Sager & Wilde Wine Bar](sagerandwilde.com)
+* [The Cocktail Trading Co.](thecocktailtradingco.com)
+* [London Cocktail Club](londoncocktailclub.co.uk)
+* [Nightjar](barnightjar.com)
+* [Bubbledogs](bubbledogs.co.uk) - hot dogs and champagne
 
 ## Parks
 
 * Battersea Park
-* Regents Park 
+* Regents Park
 
 ## Additional links

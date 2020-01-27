@@ -4,13 +4,18 @@ San Francisco, in northern California, is a hilly city on the tip of a peninsula
 
 ## To See/Do
 
-* 
+* Golden Gate Bridge
 
 ## To Eat/Drink
 
 * [Chubby Noodle](https://www.chubbynoodle.com/)
+* [Hillside Supper Club](http://www.hillsidesupperclub.com)
+* [Sorrel](https://www.sorrelrestaurant.com)
+* [Del Popolo](https://delpopolosf.getbento.com)
 
-## Parks 
+* [Wildhawk](https://www.wildhawksf.com)
+
+## Parks
 
 * Golden Gate Park
 * Mission Dolores Park
