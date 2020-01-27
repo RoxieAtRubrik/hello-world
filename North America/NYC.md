@@ -19,7 +19,7 @@ New York City comprises 5 boroughs sitting where the Hudson River meets the Atla
 * Market Table, in SoHo
 * Ellen's Stardust Diner
 
-## Parks 
+## Parks
 
 * Visit [Central Park](http://www.centralparknyc.org/)
 

@@ -17,14 +17,17 @@ Melbourne is the coastal capital of the southeastern Australian state of Victori
 * Great Ocean Road
 * Alpine Ski Fields
 * Phillip Island
+* Australian Open
 
 ## To Eat/Drink
 
 * Souvlaki King
 * Eureka89
-* Shujinko Ramen 
-* Everyday Midtown 
+* Shujinko Ramen
+* Everyday Midtown
 * Augellos
+* [Gyoza Douraku](http://www.gyozadouraku.com.au)
+* Manchester Press
 
 ## Parks 
 
