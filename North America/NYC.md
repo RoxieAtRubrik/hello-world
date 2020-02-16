@@ -19,6 +19,10 @@ New York City comprises 5 boroughs sitting where the Hudson River meets the Atla
 * Market Table, in SoHo
 * Ellen's Stardust Diner
 
+## Where to Stay
+
+* [Wythe Hotel](https://wythehotel.com) - cool boutique hotel in Brooklyn
+
 ## Parks
 
 * Visit [Central Park](http://www.centralparknyc.org/)
