@@ -4,6 +4,8 @@ No coding necessary to complete this tutorial, just a GitHub account. You don’
 
 > Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
 
+Workshop slides located [here](/Introduction%20to%20Version%20Control.pdf).
+
 # Step 1. Create an Issue
 Issues are used to track ideas, enhancements, tasks, or bugs for work on GitHub. Rubrik Build uses issues to collect user feedback, report software bugs, and organize tasks we'd like to accomplish within a repository. Issues can act as more than just a place to report software bugs. You can also watch an issue to receive notifications about the latest comments.
 
